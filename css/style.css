@@ -182,6 +182,16 @@ h6 {
   display: flex;
   flex-direction: column;
   opacity: 0;
+  overflow: auto;
+}
+.mobile__block::-webkit-scrollbar-track {
+  background: inherit;
+}
+.mobile__block::-webkit-scrollbar {
+  width: 5px;
+}
+.mobile__block::-webkit-scrollbar-thumb {
+  background: #959595;
 }
 .mobile__close {
   position: absolute;
@@ -190,9 +200,14 @@ h6 {
 }
 .mobile__btn-close {
   position: relative;
-  width: 38px;
+  width: 37.68px;
   height: 38px;
   background: none;
+}
+.mobile__btn-close img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 .mobile__btn-close:hover, .mobile__btn-close:focus {
   filter: drop-shadow(2px 4px 6px #fff);
@@ -273,7 +288,7 @@ h6 {
   overflow: hidden;
 }
 .mobile__messengers a:hover, .mobile__messengers a:focus {
-  box-shadow: 0 0 10px 0px #000;
+  box-shadow: 0 0 5px 5px #000;
   transition: 0.2s ease 0.2s;
 }
 .mobile__messengers a img {
