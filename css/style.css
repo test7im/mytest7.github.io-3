@@ -172,7 +172,7 @@ h6 {
 .mobile__block {
   width: 100%;
   max-width: 400px;
-  height: 1080px;
+  height: 100vh;
   padding: 80px 65px 77px;
   background-color: #292929;
   position: absolute;
@@ -195,7 +195,7 @@ h6 {
   background: none;
 }
 .mobile__btn-close:hover, .mobile__btn-close:focus {
-  filter: drop-shadow(2px 4px 6px black);
+  filter: drop-shadow(2px 4px 6px #fff);
   transition: 0.2s ease 0.2s;
 }
 .mobile__menu {
