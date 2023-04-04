@@ -340,9 +340,9 @@
                   </div>
                 </div>
               </div>
-              <div class="plans__all">
+              <!--<div class="plans__all">
                 <a type="button"><span>Все планировки</span><img src="img/svg/arrow.svg" alt="arrow" /></a>
-              </div>
+              </div>-->
             </div>
             <!--<div class="slider">
               <div class="swiper">
@@ -658,11 +658,20 @@
             </div>
           </section>
           <section class="news">
-            <div class="_container">
-              <div class="news__body">
-                <h2 class="title">Новости</h2>
-                <div class="news__blocks">
-                  <div class="news__block">
+            <div class="slider">
+              <div class="_container">
+                <div class="flex">
+                  <h2 class="title">Новости</h2>
+                  <div class="btn-arrows">
+                    <button class="btn-arrow btn-prev"><img src="img/svg/arrow-prev.svg" alt="prev" /></button>
+                    <div class="points"><span></span><span></span><span></span></div>
+                    <button class="btn-arrow btn-next"><img src="img/svg/arrow-next.svg" alt="next" /></button>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper">
+                <div class="news__blocks swiper-wrapper">
+                  <div class="news__block swiper-slide">
                     <div class="news__img">
                       <img src="img/news/1.png" alt="news" />
                     </div>
@@ -671,13 +680,22 @@
                       <span class="news__date">26.06.2023</span>
                     </div>
                   </div>
-                  <div class="news__block">
+                  <div class="news__block swiper-slide">
                     <div class="news__img">
                       <img src="img/news/2.png" alt="news" />
                     </div>
                     <div class="news__text">
                       <h4 class="news__title">Режим работы 8 марта</h4>
-                      <span class="news__date">07.03.2023</span>
+                      <span class="news__date">26.06.2023</span>
+                    </div>
+                  </div>
+                  <div class="news__block swiper-slide">
+                    <div class="news__img">
+                      <img src="img/news/no-photo.png" alt="news" />
+                    </div>
+                    <div class="news__text">
+                      <h4 class="news__title">Режим работы 1 января</h4>
+                      <span class="news__date">20.12.2022</span>
                     </div>
                   </div>
                 </div>
