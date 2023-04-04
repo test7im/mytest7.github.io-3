@@ -109,8 +109,7 @@ h6 {
   line-height: 160%;
   color: #ffffff;
 }
-.header__tel:hover,
-.header__tel:focus {
+.header__tel:hover, .header__tel:focus {
   color: #ccc;
   transition: 0.2s ease 0.2s;
 }
@@ -149,8 +148,7 @@ h6 {
   margin: 0 auto;
   border-radius: 50px;
 }
-.btn-mobile__burger span::before,
-.btn-mobile__burger span::after {
+.btn-mobile__burger span::before, .btn-mobile__burger span::after {
   background: inherit;
   content: "";
   height: inherit;
@@ -211,8 +209,7 @@ h6 {
   height: 100%;
   object-fit: contain;
 }
-.mobile__btn-close:hover,
-.mobile__btn-close:focus {
+.mobile__btn-close:hover, .mobile__btn-close:focus {
   filter: drop-shadow(2px 4px 6px #fff);
   transition: 0.2s ease 0.2s;
 }
@@ -233,8 +230,7 @@ h6 {
   line-height: 215%;
   color: #fff;
 }
-.mobile__menu-item:hover,
-.mobile__menu-item:focus {
+.mobile__menu-item:hover, .mobile__menu-item:focus {
   text-shadow: 0 0 5px #fff;
   transition: 0.2s ease 0.2s;
 }
@@ -247,8 +243,7 @@ h6 {
   text-transform: uppercase;
   color: #ffffff;
 }
-.mobile__tel:hover,
-.mobile__tel:focus {
+.mobile__tel:hover, .mobile__tel:focus {
   color: #ccc;
   transition: 0.2s ease 0.2s;
 }
@@ -292,8 +287,7 @@ h6 {
   border-radius: 50%;
   overflow: hidden;
 }
-.mobile__messengers a:hover,
-.mobile__messengers a:focus {
+.mobile__messengers a:hover, .mobile__messengers a:focus {
   box-shadow: 0 0 5px 5px #000;
   transition: 0.2s ease 0.2s;
 }
@@ -379,8 +373,7 @@ h6 {
   text-transform: uppercase;
   color: #959595;
 }
-.footer__tel:hover,
-.footer__tel:focus {
+.footer__tel:hover, .footer__tel:focus {
   color: #000;
   transition: 0.2s ease 0.2s;
 }
@@ -431,8 +424,7 @@ h6 {
   color: inherit;
   text-decoration: underline;
 }
-.footer__info p a:hover,
-.footer__info p a:focus {
+.footer__info p a:hover, .footer__info p a:focus {
   text-decoration: none;
   transition: 0.2s ease 0.2s;
 }
@@ -450,8 +442,7 @@ h6 {
   color: #959595;
   text-decoration: underline;
 }
-.footer__agree a:hover,
-.footer__agree a:focus {
+.footer__agree a:hover, .footer__agree a:focus {
   text-decoration: none;
   transition: 0.2s ease 0.2s;
 }
@@ -471,8 +462,7 @@ h6 {
   line-height: 160%;
   color: #292929;
 }
-.footer__menu ul li a:hover,
-.footer__menu ul li a:focus {
+.footer__menu ul li a:hover, .footer__menu ul li a:focus {
   color: #959595;
   transition: 0.2s ease 0.2s;
 }
@@ -520,8 +510,7 @@ h6 {
   overflow: hidden;
   margin: 30px 6.5px 0;
 }
-.footer__messengers a:hover,
-.footer__messengers a:focus {
+.footer__messengers a:hover, .footer__messengers a:focus {
   box-shadow: 0 0 10px 0px #000;
   transition: 0.2s ease 0.2s;
 }
@@ -583,8 +572,7 @@ h6 {
   top: 50px;
   right: 57.51px;
 }
-.popup__close:hover,
-.popup__close:focus {
+.popup__close:hover, .popup__close:focus {
   filter: brightness(0.5);
   transition: 0.2s ease 0.2s;
 }
@@ -700,14 +688,12 @@ h6 {
   justify-content: center;
   height: 545px;
 }
-.advantages__block1,
-.advantages__block3 {
+.advantages__block1, .advantages__block3 {
   overflow: hidden;
   position: relative;
   width: 100%;
 }
-.advantages__block1 .title,
-.advantages__block3 .title {
+.advantages__block1 .title, .advantages__block3 .title {
   position: absolute;
   left: 0;
   right: 0;
@@ -718,8 +704,7 @@ h6 {
   flex-direction: column;
   justify-content: center;
 }
-.advantages__block1 img,
-.advantages__block3 img {
+.advantages__block1 img, .advantages__block3 img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -783,8 +768,7 @@ h6 {
   justify-content: center;
   align-items: center;
 }
-.advantages__btn:hover,
-.advantages__btn:focus {
+.advantages__btn:hover, .advantages__btn:focus {
   background: #61aa91;
   transition: 0.2s ease 0.2s;
 }
@@ -841,8 +825,7 @@ h6 {
   text-decoration: underline;
   color: #292929;
 }
-.dreams__text a:hover,
-.dreams__text a:focus {
+.dreams__text a:hover, .dreams__text a:focus {
   text-decoration: none;
   transition: 0.2s ease 0.2s;
 }
@@ -916,8 +899,7 @@ h6 {
   width: fit-content;
   margin: 0 auto;
 }
-.plans__all a:hover,
-.plans__all a:focus {
+.plans__all a:hover, .plans__all a:focus {
   filter: brightness(0.5);
   transition: 0.2s ease 0.2s;
 }
@@ -1165,13 +1147,11 @@ h6 {
   left: 0;
   background: none;
 }
-.block-slider .slider .swiper-pagination .swiper-pagination-bullet:hover,
-.block-slider .slider .swiper-pagination .swiper-pagination-bullet:focus {
+.block-slider .slider .swiper-pagination .swiper-pagination-bullet:hover, .block-slider .slider .swiper-pagination .swiper-pagination-bullet:focus {
   background: #fff;
   transition: 0.2s ease 0.2s;
 }
-.block-slider .slider .swiper-pagination .swiper-pagination-bullet:hover::before,
-.block-slider .slider .swiper-pagination .swiper-pagination-bullet:focus::before {
+.block-slider .slider .swiper-pagination .swiper-pagination-bullet:hover::before, .block-slider .slider .swiper-pagination .swiper-pagination-bullet:focus::before {
   background: linear-gradient(0deg, rgb(255, 255, 255) 20%, rgb(86, 159, 134) 100%);
 }
 .block-slider .slider .swiper-pagination .swiper-pagination-bullet:not(:first-child) {
@@ -1451,8 +1431,7 @@ h6 {
   cursor: pointer;
   background: #569f86;
 }
-.apartment__share a:hover,
-.apartment__share a:focus {
+.apartment__share a:hover, .apartment__share a:focus {
   background: #61aa91;
   transition: 0.2s ease 0.2s;
 }
@@ -1630,8 +1609,7 @@ h6 {
   justify-content: center;
   color: #ffffff;
 }
-.form-order__btn:hover,
-.form-order__btn:focus {
+.form-order__btn:hover, .form-order__btn:focus {
   background: #2a4e41;
   transition: 0.2s ease 0.2s;
 }
@@ -1824,8 +1802,7 @@ h6 {
   max-width: 640px;
   filter: brightness(0.6);
 }
-.banners__block:hover,
-.banners__block:focus {
+.banners__block:hover, .banners__block:focus {
   animation: imgScale 0.5s forwards 0.5s;
 }
 @keyframes imgScale {
@@ -1978,8 +1955,7 @@ body._lock {
   justify-content: center;
   color: #ffffff;
 }
-.btn:hover,
-.btn:focus {
+.btn:hover, .btn:focus {
   background: #61aa91;
   transition: 0.2s ease 0.2s;
 }
@@ -2090,8 +2066,7 @@ body._lock {
   filter: invert(0.5);
   opacity: 0.5;
 }
-.slider .btn-arrows .btn-arrow:hover,
-.slider .btn-arrows .btn-arrow:focus {
+.slider .btn-arrows .btn-arrow:hover, .slider .btn-arrows .btn-arrow:focus {
   filter: invert(0);
   opacity: 1;
   transition: 0.2s ease 0.2s;
@@ -2128,8 +2103,7 @@ body._lock {
   line-height: 130%;
   color: #959595;
 }
-.nav__item:hover,
-.nav__item:focus {
+.nav__item:hover, .nav__item:focus {
   color: #363636;
   transition: 0.2s ease 0.2s;
 }
@@ -2202,8 +2176,7 @@ body._lock {
   color: #ffffff;
   padding: 0 30px;
 }
-.btn-back:hover,
-.btn-back:focus {
+.btn-back:hover, .btn-back:focus {
   background: #b3b3b3;
   transition: 0.2s ease 0.2s;
 }
