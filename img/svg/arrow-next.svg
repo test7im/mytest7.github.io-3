@@ -1,3 +1,41 @@
-<svg width="15" height="32" viewBox="0 0 15 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M-1.26031e-06 28.8326L11.317 19.0314C11.7453 18.6767 12.0888 18.2249 12.3208 17.711C12.5528 17.1971 12.6671 16.6349 12.6549 16.068L12.6549 15.9411C12.6671 15.3742 12.5528 14.812 12.3208 14.2981C12.0888 13.7842 11.7453 13.3323 11.317 12.9776L-1.38648e-07 3.17191L0 -6.55671e-07L12.8304 11.1221C13.5189 11.7046 14.0715 12.44 14.447 13.2735C14.8226 14.107 15.0114 15.0173 14.9995 15.9366L14.9995 16.0634C15.0105 16.9824 14.8216 17.8921 14.4465 18.7255C14.0714 19.5588 13.5199 20.2944 12.8326 20.8779L-1.39876e-06 32L-1.26031e-06 28.8326Z" fill="#569F86"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="17"
+   height="30"
+   viewBox="0 0 17 30"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="arrow-next.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.5"
+     inkscape:cx="10.114286"
+     inkscape:cy="15.028571"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M16 1L2 15L16 29"
+     stroke="#569F86"
+     stroke-width="2"
+     id="path2" />
 </svg>
